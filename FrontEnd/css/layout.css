@@ -463,7 +463,7 @@ ul#nav li.current a { color: #ff0000; }
 /* ------------------------------------------------------------------ */
 
 #Certifications {
-   background: #1F1F1F url(../images/Certifications-bg.jpg) no-repeat center center;
+   background: #1F1F1F;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
